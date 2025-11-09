@@ -1,0 +1,3 @@
+C:\Project\encdata\encdata\Debug\encdata.vcxproj.AssemblyReference.cache
+C:\Project\encdata\encdata\Debug\encdata.MyForm.resources
+C:\Project\encdata\encdata\Debug\encdata.vcxproj.GenerateResource.cache
